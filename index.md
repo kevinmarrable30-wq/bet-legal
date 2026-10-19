@@ -1,3 +1,6 @@
+   ---
+   title: BET Privacy Policy
+   ---
 # BET Privacy Policy
 Last updated: October 19, 2026
 
