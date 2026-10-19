@@ -1,6 +1,7 @@
-   ---
-   title: BET Privacy Policy
-   ---
+---
+title: BET Privacy Policy
+---
+   
 # BET Privacy Policy
 Last updated: October 19, 2026
 
@@ -31,7 +32,7 @@ BET provides general fitness and nutrition information and is not medical advice
 BET is not directed at children under 13.
 
 ## Deleting your data
-Deleting the app removes the data it stores on your device.
+Deleting the app removes the data it stores on your device. Copies may remain in your own device or iCloud backups until those backups are deleted.
 
 ## Changes
 We may update this policy. The date above shows the latest version.
