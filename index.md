@@ -36,3 +36,6 @@ Deleting the app removes the data it stores on your device. Copies may remain in
 
 ## Changes
 We may update this policy. The date above shows the latest version.
+
+## Support
+Kevin.Marrable30@protonmail.com
